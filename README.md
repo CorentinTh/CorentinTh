@@ -22,7 +22,7 @@ Npm packages:
 
 Miscellaneous:
 
-* **[satirify-bot](https://github.com/CorentinTh/satirify-bot)**: a twitter bot that mocks tweets when mentionned. Try it: reply "@satirify" to a tweet you want to mock ([demo](twitter.com/satirify)). 
+* **[satirify-bot](https://github.com/CorentinTh/satirify-bot)**: a twitter bot that mocks tweets when mentionned. Try it: reply "@satirify" to a tweet you want to mock ([demo](https://twitter.com/satirify)). 
 * **[robert](https://github.com/CorentinTh/robert)**: A simple and modular discord bot.
 * **[iot-potager-demo](https://github.com/CorentinTh/iot-potager-demo)**: POC IoT demo application.
 * **[FractalTree](http://divers.corentin-thomasset.fr/fractal-tree/index.html)**: A recursive fractal tree generator ([sources](https://github.com/CorentinTh/FractalTree)).
@@ -39,3 +39,6 @@ School projects:
 * **[react-if](https://github.com/CorentinTh/react-if)**: Homemade barebone static HTTP server in Java.
 * **[express-if](https://github.com/CorentinTh/express-if)**: Barebone live communication chat made in Java.
 * **[qualitair](https://github.com/CorentinTh/express-if)**: Air quality report system ever built in C++.
+
+
+And many other craps...
