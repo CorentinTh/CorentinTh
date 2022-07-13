@@ -38,7 +38,7 @@ School projects:
 * **[gestif](https://github.com/CorentinTh/gestif)**: XSS fault demo application.
 * **[react-if](https://github.com/CorentinTh/react-if)**: Homemade barebone static HTTP server in Java.
 * **[express-if](https://github.com/CorentinTh/express-if)**: Barebone live communication chat made in Java.
-* **[qualitair](https://github.com/CorentinTh/express-if)**: Air quality report system ever built in C++.
+* **[qualitair](https://github.com/CorentinTh/express-if)**: Air quality report system built in C++.
 
 
 And many other craps...
